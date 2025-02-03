@@ -3,7 +3,6 @@ package gr.aueb.cf.ch19.singly_linked_list;
 public class SingleList<T> {
     private Node<T> head = null;
 
-
     /**
      * time-complexity O(1)
      *
