@@ -2,7 +2,7 @@ package gr.aueb.cf.ch20.lambdas;
 
 public class Teacher {
 
-    private id;
+    private int id;
     private String firstname;
     private String lastname;
 
